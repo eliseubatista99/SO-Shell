@@ -11,8 +11,6 @@ A Shell developed for Operative Systems
    
    **• 42** -> It shows the explanation of number 42;
    
-   **• sols** -> Shows the list of files and folders in the current directory;
-   
    **• aviso message number** -> Shows an warning message after NUMBER seconds;
    
    **• avisoth message number** -> Shows an warning message after NUMBER seconds (by using threads);
@@ -28,8 +26,6 @@ A Shell developed for Operative Systems
    **• socp source destiny** -> It copies the content of FILE1 to FILE2;
    
    **• socpth source destiny** -> It copies the content of FILE1 to FILE2 (using threads);
-   
-   **• rocket** -> It shows a rocket in the standard output (see https://helloacm.com/simple-cc-rocket-animation/ )
    
    **• jpg (or jpeg) file** -> It checks if FILE1 is a JPEG file;
    
